@@ -6,7 +6,9 @@
 *  1.0.0标准版
 
 
-##接口说明
+## 接口说明
+
+[详见单元测试](https://github.com/JasperXgwang/ups-oppo-push-java-sdk/blob/master/src/test/java/com/ups/oppo/push/server/sdk/server/OppoSenderTest.java)
 
 
 ### 单推-通知栏消息推送（message/notification/unicast）
