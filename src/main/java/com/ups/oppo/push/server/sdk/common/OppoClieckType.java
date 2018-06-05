@@ -11,7 +11,7 @@ public enum OppoClieckType {
 
     APP(0, "打开应用"),
     ACTION(1, "打开应用内页（activity的intent action）"),
-    H5(2, "打开URI页面"),
+    URI(2, "打开URI页面"),
     ACTIVITY(4, "打开应用内页（activity）");
 
 
