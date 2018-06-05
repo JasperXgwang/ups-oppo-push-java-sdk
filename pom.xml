@@ -6,7 +6,7 @@
 
     <groupId>com.meizu.flyme</groupId>
     <artifactId>ups-oppo-push-java-sdk</artifactId>
-    <version>1.0.0.20180601</version>
+    <version>1.0.0.20180605</version>
 
     <packaging>jar</packaging>
     <name>ups-oppo-push-java-sdk</name>

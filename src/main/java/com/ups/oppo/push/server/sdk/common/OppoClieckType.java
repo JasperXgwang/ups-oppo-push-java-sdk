@@ -10,9 +10,9 @@ import java.util.Map;
 public enum OppoClieckType {
 
     APP(0, "打开应用"),
-    ACTIVITY(1, "打开应用内页（activity的intent action）"),
+    ACTION(1, "打开应用内页（activity的intent action）"),
     H5(2, "打开URI页面"),
-    CUSTOM_ATTRIBUTE(4, "打开应用内页（activity）");
+    ACTIVITY(4, "打开应用内页（activity）");
 
 
     private Integer desc;
