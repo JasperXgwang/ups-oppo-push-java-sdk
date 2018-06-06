@@ -8,7 +8,7 @@ import com.ups.oppo.push.server.sdk.exception.ErrorCode;
 public class Constants {
 
     public static final String CHAR_SET = "UTF-8";
-    public static final String SDK_VERSION = "1.0.0.20180601";
+    public static final String SDK_VERSION = "1.0.0.20180605";
     public static final String SUCCESS_CODE = String.valueOf(ErrorCode.SUCCESS.getValue());
 
     private static final String HOST = "https://api.push.oppomobile.com";

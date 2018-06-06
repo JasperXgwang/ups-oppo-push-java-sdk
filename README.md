@@ -1,6 +1,11 @@
 # OPPO推送服务端 JAVA SDK
 
+中央仓库获取 [MVN Repository](http://mvnrepository.com/artifact/com.meizu.flyme/ups-oppo-push-java-sdk)
+
 ## 更新日志
+
+### [2018-06-01]V1.0.0.20180605
+*  update OppoClieckType 
 
 ### [2018-06-01]V1.0.0.20180601
 *  1.0.0标准版
